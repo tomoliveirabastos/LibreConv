@@ -4,7 +4,7 @@
 <br>
 <u>
    <li>PHP : ^7.4</li>
-   <li>Libreoffice: ^7 </li>
+   <li>Libreoffice: ^6 </li>
  </u>
  
  
